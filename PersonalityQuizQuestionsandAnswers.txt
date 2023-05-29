@@ -1,0 +1,264 @@
+You have been invited to a birthday party! But you don't know the person very well... what do you do?
+A) Sorry, I'm too tired to go...
+The Hermit
+3
+The Devil
+3
+The Hierophant
+2
+B) My spouse said that we have something planned!
+The Fool
+2
+The Lovers
+4
+The Emperor
+4
+C) Just go... It will be fun!
+Strength
+4
+The Chariot
+4
+The World
+3
+The Sun took something from you. What was it?
+A) My skin
+The Empress
+3
+The High Priestess
+3
+The Emperor
+3
+B) My Hair
+The Lovers
+3
+The Sun
+4
+Judgement
+3
+C) My Sight
+The Magician
+4
+Death
+2
+The Stars
+4
+The Moon gave something to you. What was it?
+A) My Clothes
+The Empress
+3
+The Wheel of Fortune
+3
+Temperance
+4
+B) My Peace
+Death
+4
+Justice
+2
+The Fool
+3
+C) My Lover
+The Lovers
+4
+The Wheel of Fortune
+4
+The Sun
+4
+Warm colors, or cool colors?
+A) Warm colors
+The World
+2
+The Sun
+3
+The Chariot
+4
+B) Cool colors
+The Stars
+3
+The Moon
+4
+Death
+3
+C) I don't really care.
+The Magician
+4
+Justice
+5
+The Tower
+4
+Do you dream?
+A) I dream a lot!
+The Sun
+4
+The High Priestess
+4
+The Wheel of Fortune
+3
+B) I dream very little.
+The Devil
+3
+Death
+4
+The Tower
+5
+C) I haven't kept track...
+The Chariot
+4
+The Hanged Man
+4
+Strength
+4
+How do you take your coffee?
+A) Black as night
+The Tower
+3
+Judgement
+5
+Strength
+4
+B) I like it with cream or sugar.
+Temperance
+3
+The Magician
+5
+The Lovers
+3
+C) I like tea more.
+The High Priestess
+5
+The Moon
+5
+The Stars
+4
+Are you a cat person or a dog person?
+A) I'm a cat person!
+The Tower
+4
+The Lovers
+3
+The Hermit
+3
+B) I'm a dog person!
+Strength
+3
+The Hierophant
+4
+The Emporer
+5
+C) I don't really care...
+The Fool
+4
+Temperance
+4
+Judgement
+3
+Do you want kids?
+A) I do or I have them!
+The Empress
+5
+The High Priestess
+4
+The World
+4
+B) I don't.
+Death
+4
+Judgement
+3
+The Hermit
+4
+C) I haven't decided yet.
+The Chariot
+4
+The Fool
+3
+The Wheel of Fortune
+5
+Do you like days or nights better?
+A) I love the daytime.
+The World
+3
+The High Priestess
+4
+Strength
+3
+B) I love the nighttime.
+The Magician
+4
+The Moon
+5
+The Hanged Man
+6
+C) I'm okay with both.
+Justice
+5
+The Hermit
+4
+The Emperor
+4
+Kiss a person.
+A) My mom.
+The High Priestess
+4
+The Fool
+5
+Temperance
+5
+B) My dad.
+Strength
+3
+The World
+5
+Death
+5
+C) My lover.
+The Lovers
+4
+The Chariot
+4
+The Sun
+5
+Music Tastes?
+A) I listen to a little bit of everything.
+Justice
+5
+The Tower
+5
+The Emperor
+3
+B) I like music that sounds bad.
+The Fool
+5
+The Hermit
+5
+The Stars
+5
+C) I only really listen to one genre.
+The Devil
+5
+Death
+4
+The Sun
+3
+Have you received an award for anything?
+A) Yes, a long time ago...
+The Hierophant
+5
+The Tower
+5
+The Hanged Man
+6
+B) Yes, recently, too!
+The Chariot
+2
+The Hanged Man
+3
+The Sun
+2
+C) No, I haven't.
+The Hermit
+4
+The Fool
+3
+The World
+3

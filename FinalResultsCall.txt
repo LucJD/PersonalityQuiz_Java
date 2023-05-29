@@ -1,0 +1,42 @@
+The Fool
+You are the Fool.
+The Magician
+You are the Magician.
+The High Priestess
+You are the High Priestess.
+The Empress
+You are the Empress.
+The Hierophant
+You are the Hierophant.
+The Lovers
+You are the Lovers.
+The Chariot
+You are the Chariot.
+Justice
+You are Justice.
+The Hermit
+You are the Hermit.
+The Wheel of Fortune
+You are the Wheel of Fortune.
+Strength
+You are Strength.
+The Hanged Man
+You are the Hanged Man.
+Death
+You are Death.
+Temperance
+You are Temperance.
+The Devil
+You are the Devil.
+The Tower
+You are the Tower.
+The Stars
+You are the Stars.
+The Moon
+You are the Moon.
+The Sun
+You are the Sun.
+Judgement
+You are Judgement.
+The World
+You are the World.
