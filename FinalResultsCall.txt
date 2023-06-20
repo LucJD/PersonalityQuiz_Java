@@ -40,3 +40,5 @@ Judgement
 You are Judgement.
 The World
 You are the World.
+The Emperor
+You are the Emperor.

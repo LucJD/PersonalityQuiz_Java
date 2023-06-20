@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ModuleProject_PersonalityQuiz.iml" filepath="$PROJECT_DIR$/ModuleProject_PersonalityQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Personality_Quiz_SQL_Seed/Personality_Quiz_SQL_Seed.iml" filepath="$PROJECT_DIR$/Personality_Quiz_SQL_Seed/Personality_Quiz_SQL_Seed.iml" />
     </modules>
   </component>
 </project>

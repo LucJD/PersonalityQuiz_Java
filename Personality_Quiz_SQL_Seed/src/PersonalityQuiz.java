@@ -1,16 +1,38 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.lang.reflect.Array;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
+import java.sql.Connection;
+import java.sql.Statement;
+import java.sql.ResultSet;
 public class PersonalityQuiz {
     static String[] resultStr = {"The Fool", "The Magician", "The High Priestess", "The Empress", "The Emperor", "The Hierophant", "The Lovers", "The Chariot", "Justice", "The Hermit", "The Wheel of Fortune", "Strength", "The Hanged Man", "Death", "Temperance", "The Devil", "The Tower", "The Stars", "The Moon", "The Sun", "Judgement", "The World"};
 
-
+    static ArrayList<Answer> allAnswers = new ArrayList<>();
     static ArrayList<Question> finalQuestions = new ArrayList<>(); //final fully initialized questions to print out
     static HashMap<String, Integer> finalResults = new HashMap<String, Integer>(); // final personalities mapped to score
     static HashMap<String, String> finalResultsCall = new HashMap<String, String>(); //final text output
+
+
+    //COMMUNICATING WITH DATABASE//
+    static void connectWithDatabase(){
+        Connection c = null;
+        Statement stmt = null;
+
+        try {
+            c = DriverManager.getConnection("jdbc:postgresql://localhost:5432/personality_quiz", "lucdi", "9200");
+            c.setAutoCommit(false);
+            System.out.println("Opened database successfully");
+
+            stmt = c.createStatement();
+        }catch(SQLException e){
+            e.printStackTrace();
+        }
+    }
 
     static void initializeAnswersAndQuestions() {
         ArrayList<Answer> answersToCopy = new ArrayList<>();
@@ -41,6 +63,7 @@ public class PersonalityQuiz {
                 ArrayList<Answer> answersTemp = new ArrayList<>(answersToCopy);
                 Question question = new Question(questionData, answersTemp);
                 finalQuestions.add(question);
+                allAnswers.addAll(answersTemp);
                 answersToCopy.clear();
 
             }
@@ -110,8 +133,7 @@ public class PersonalityQuiz {
         } while (!answered);
 
     }
-//TODO:
-    //maxresult isn't used, refactor
+
     static String calculateResults(){
         String maxResultStr = "The Fool";
         int maxResult = finalResults.get(maxResultStr);
@@ -132,6 +154,7 @@ public class PersonalityQuiz {
 
 
     public static void main(String[] args) {
+        connectWithDatabase();
         initializeAnswersAndQuestions();
         initializeFinalResults();
         initializeFinalResultCall();
